@@ -1,7 +1,7 @@
                                     
                                            About myself
 
-✔️ I am Suvam Chatterjee, currently pursuing my bachelors from Government College Of Engineering and Ceramic technology
+✔️ I am Suvam Chatterjee, currently pursuing my bachelors from Government College Of Engineering and Ceramic technology in Information Technology
 
 ✔️ I am interested in development , Machine Learning and Devops . I also enjoy doing competitive programming.
 
